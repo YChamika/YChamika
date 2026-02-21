@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 I'm an undergraduate pursuing dual degrees in **Information Technology** and **Physics & Electronics**, with a strong interest in combining software and hardware to solve real-world challenges.  
 I enjoy tackling technical problems, developing data-driven projects, and working collaboratively on engineering and research-based solutions.
 
@@ -31,7 +31,7 @@ I enjoy tackling technical problems, developing data-driven projects, and workin
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasiru%20Chamika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasiru-chamika-6198b8334/)
 [![GitHub](https://img.shields.io/badge/GitHub-YChamika-black?style=for-the-badge&logo=github)](https://github.com/YChamika)
